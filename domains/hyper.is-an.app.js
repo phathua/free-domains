@@ -2,7 +2,7 @@
 
 addSubDomain({
   description: 'Share Account Web', // describe your project in this field
-  domain: '1bt.uk', // aka "root-domain". select between '1bt.uk' and 'is-an.app'
+  domain: 'is-an.app', // aka "root-domain". select between '1bt.uk' and 'is-an.app'
   subdomain: 'hyper', // desired subdomain name
   owner: {
     repo: 'https://github.com/phathua/free-domains',
